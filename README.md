@@ -21,6 +21,7 @@ This system ingests multiple paper abstracts or summaries, cross-references find
 
 - **Python:** Version `3.9` to `3.12`
 - **API Key:** A valid Gemini API key from [Google AI Studio](https://aistudio.google.com/)
+- ****Googlecolab.**
 
 ---
 
