@@ -1,4 +1,4 @@
-# Research-gap-agent
+# Research-gap-identifier-agent
 # 🔍 AI-Powered Research Gap Identifier Agent
 
 An expert AI agent designed to automate the process of reviewing and synthesizing research papers to identify critical unresolved problems, limitations, and future research directions [1]. 
